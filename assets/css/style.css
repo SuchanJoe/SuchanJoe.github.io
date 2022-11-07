@@ -1438,6 +1438,13 @@ ul li {
     font-family: 'Poppins';
 }
 
+@media only screen and (max-width: 600px) {
+    
+    #ar_img_1{
+        display: none;
+    }
+}
+
 
 
 
