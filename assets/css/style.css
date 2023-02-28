@@ -309,6 +309,10 @@ ul li {
     height: auto;
 }
 
+#headshot{
+  padding-top:15em;
+}
+
 
 .owl-carousel.owl-full-width .slide {
   position: relative;
